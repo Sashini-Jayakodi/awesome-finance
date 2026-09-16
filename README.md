@@ -68,6 +68,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [QuantLib](https://www.quantlib.org/) – Open-source library for quantitative finance modeling.
 - [Zipline](https://www.zipline.io/) – Algorithmic trading library for backtesting strategies.
 - [Backtrader](https://www.backtrader.com/) – Python framework for trading strategy development.
+- [Pinegen AI](https://www.pinegen.ai/) – AI-powered generator that turns plain-English trading rules into compiler-validated Pine Script v6 strategies for TradingView, with live preview and backtesting.
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/) – Portfolio optimization library.
 - [QSTrader](https://github.com/mhallsmoore/qstrader) – Event-driven backtesting engine.
 
